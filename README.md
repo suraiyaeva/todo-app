@@ -12,6 +12,7 @@ A task management app created using MERN stack for better productivity.
 git clone https://github.com/suraiyaeva/todo-app.git
 
 2.Install dependencies:npm install
+
 3. Run the app:
 npm start
 
