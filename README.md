@@ -17,6 +17,7 @@ A task management app created using MERN stack for better productivity.
 ``bash
 
 npm install
+
 3.Run the app:npm start
 
 ## Technologies Used
